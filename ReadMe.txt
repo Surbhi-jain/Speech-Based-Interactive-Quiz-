@@ -4,24 +4,6 @@ System Requirements
 dot Net version 4.0(or Later)
 Visual Studio 2010(If you need to build the project)
 
-====================================================================================================
-CONTENTS
-====================================================================================================
-1. There are four folders in this project
-	i.	29_video
-	ii.	29_documentation
-	iii.    29_setup
-	iv.	29_code
-	
-2. 29_video folder contains the demonstration of the software starting from installation to 
-	explanation of all the features.
-3. 29_documentation folder contains the documentation of our project. It also contains the pdf 
-	versions of all the source code files in case of accidental deletion of main source code files 
-	from VS project.
-4. 29_setup folder contains the standalone application of our project which one can use to install 
-	the software.
-5. 29_code folder conatins the visual studio project which one can use to rebuild the 
-	executable.
 =========================================================================================================
 Instruction to run the code ::
 =========================================================================================================
